@@ -10,6 +10,9 @@ Stisla templates for InfyOm Laravel Generator
 
 ## Documentation
 
+### Install
+`composer require memoafrica/stisla-templates`
+
 Read [Documentation](https://infyom.com/open-source/laravelgenerator/docs/9.0/stisla-templates) for detailed installation steps and usage.
 
 ## Support Us
